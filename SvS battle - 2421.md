@@ -5,13 +5,9 @@
 
 
 ## SVS RULES - nobody really know because ROK is to busy being cowards and this is agreed with other alliances
-
-1. Attacks on all cities are prohibited during the battle and around the castle are prohibited for an hour before and 30 minutes after the battle (the one hour peace time before and 30 minutes after only apply near the castle)
-
-2. State 2326 is allocated the North & West sides of the castle, and State 2407 is allocated the East & South sides of the castle for the battle.
-3. Be prepared for ROK not to follow these rules
-
-<img width="775" height="998" alt="image" src="https://github.com/user-attachments/assets/84d4bce1-d70c-4448-89f6-e78031c0f597" />
+Attacks are prohibited in the red and gray zones from 12:00 UTC to 17:30 UTC.
+No city attacks are permitted during castle time.
+<img width="467" height="362" alt="image" src="https://github.com/user-attachments/assets/15e231ea-5fef-4599-ade2-99de5cbcdb3e" />
 
 ## SVS BATTLE
 ### Predispositions:
@@ -20,33 +16,48 @@
 
 ### Introduction
 - For several svs battles we have been fighting together as one state and all active players are going to MAX alliance --> our only goal is to hold the castle until WE SAY otherwise, so no one will do rallies on turrets or the castle.
-- While waiting for rallies, feel free to do solo attacks to get points but as soon as there are rallies, fill them.
+- While waiting for rallies, feel free to do solo attacks to get points but as soon as there are rallies, fill them. WHEN THEY ARE DOING RALLIES ON US REINFORCE CASTLE!
 
 > [!TIP]
-> Please keep the correct troops ratio (it will be on the label above the castle). **Priority for the castle garrison and the main rallies** (pK (simba) and Vild (pumba)) is given to `players with helios units and FC5 units.`
+> Please keep the correct troops ratio (it will be on the label above the castle). **Priority for the castle garrison and the main rallies** (pK (HarryPika) and Vild (pumba)) is given to `players with helios units and FC5 units.`
 > - For joining attack use **5-star Reina or Jessie** as your lead hero
 > - For reinforcment use **Patrick** as your lead hero
-> - Switch heroes when you get into the castle
+> - Switch heroes when you get into the castle and there is enough time before their rallies
+> - If their rallies will hit us a few seconds after retaking castle then we will use Phily as a joiner.
 
-This is <span style="color:red">red text</span> in Markdown.
 
 
-### Strategy
-- At the beginning everyone will send a solo attack on the castle with speedups to get the first castle hold.
+### Strategy for everyone
+- At the beginning everyone will send a solo attack on the castle with speedups to get the first castle hold --> everyone even rally joiners with speedups.
 
-Then we have 2 strategies.
-1. What we always do - pk, Vild + Nico/Matt/Natsu will start a triple rally and we will see if pK + vild will be strong enough to always kick out zozo with double rallies.
-   The second one will then be composed of about 6 or more rally leaders, to test how many people will be needed for him (Matt, Nico, Natsu, Vander, Jester, Be Gentle etc.)
 
-Then we move on to second strategy:
+## Strategy for rally joiners
+- Preset your lines with 1 attacking squad, 1 deffensive squad and 1 squad with Philly in case we will use her.
+- Active pets and if you can activate your city buffs (10% and if you can spare then even 20% for deployment capacity)
+- When there are no rallies from our side and there is enough time before their rallies arrive then you can do solo on turrets but in other cases please wait for rallies or reinforcement. Winning as a state is more important than personal score!
+- When you see their double or triple rallies try to time your reinforcement for castle to arrive at the same time as the rallies (if there is a gap then try to fit among that gap) --> everyone can send reinforcement against double rallies. (45% will arrive too soon, 45% will arrive too late but if we can make that 10% to fit garrison then it could make the biggest difference in the battle. FOR THIS REINFORCMENET SEND 2-3 SQUAD AT ONCE so 1 should hit the sweet spot.
+- The above mentioned reinforcement tactic will be healing-intensive, so if you run out of resources or can't heal fast enough, take a break and let someone else do the reinforcement.
+- When PK is holding castle and there is enough time before enemies then FC7 troops or helios are preferred. Please do not send FC5 or FC6 to the castle until we fill it with FC7, we need the strongest garrison possible. R4 will kick you out and if you keep sending troops despite the warning, we will kick you out of MAX because we cannot afford mistakes.
 
-2. Coutner rallies
-- When we kick him out of the castle, pk will be in garrison and Vild + Nico/Matt/Natsu will go to WTF together with a few players to fill the double rally.
-- The moment ZOZO makes a rally on me, Vild + friend will make a double rally so that it arrives e.g. 3 seconds after ZOZO, he should be sufficiently weakened after the attack and the double rally should get him out.
-- When he starts rallying on WTF, pK + friend will start a double rally to kick him out again 3 seconds after he takes the castle.
+## Strategy for rally leaders
+- Each rally leader will be part of the SVS chat, where after the battle starts they will send me their time and how long it takes them to get to the castle.
+- We will divide into several teams
+1) pK (pets ON) + someone from fun as backup in case pK wont be strong enough
+2) Fishy (pets OFF) + Natsu (pets ON) + someone from FUN as backup
+3) Vild (pets ON) + Felix (pets OFF) + Jkidz/Jester
+4) Nico(pets ON) + Matt (pets OFF) + 2 other players as backup because Matt will be missing first hour (Jkidz/Jester/Gentle)
 
-PS: They don't have anyone else who would be able to kick us out of the castle, so it can be boring at times, but until we get at least a 30-minute lead in holding the castle, please everyone focus on the castle and leave personal points for later.
+- Each team will start by dividing it by 1 minute between their rallies, because the other state will do counter rallies, so we have to do our rallies as much as necessary and over time we will see the teams depending on how strong the opponent is.
+- We will turn on pet buffs gradually to spread them out during the battle.
 
-PSS: It is possible that ZOZO will start attacking people around the castle, please use shield.
+- pK or someone will post the times when you are supposed to start your rallies, it will look like this
+Team 2: Target - Castle - 5min
+Arrival time: 12:12:00
+Fishy – 21:28:41
+Felix – 12:06:15
+Natsu – 12:06:26
+- This time means the time when you have already prepared your squad and you click on this fancy "DEPLOY" button
+<img width="732" height="199" alt="image" src="https://github.com/user-attachments/assets/1e0754ce-9a3c-4e1d-913e-1a42bc072bf3" />
 
-Thanks everyone and good luck tomorrow.
+
+### Thanks everyone and good luck tomorrow.
