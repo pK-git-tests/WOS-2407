@@ -29,6 +29,8 @@ No city attacks are permitted during castle time.
 
 ### Strategy for everyone
 - At the beginning everyone will send a solo attack on the castle with speedups to get the first castle hold --> everyone even rally joiners with speedups.
+> [!CAUTION]
+> Winning as a state is more important than personal score!!
 
 
 ## Strategy for rally joiners
