@@ -25,6 +25,7 @@
 No Poaching:
 - NAP members may not recruit or solicit players from other NAP alliances.
 - Transfers must be voluntary and without solicitation.
+
 City & Tile Protection:
 - NAP members may not attack each other’s cities or gathering tiles.
 - Exception: Gathering tile hits are permitted during Kill Events (KE) only.
@@ -56,6 +57,7 @@ Banner Burning Restrictions:
 ## IV. SvS Participation & Solar Castle
 ### 8. Combat Participation Requirements
 - All NAP alliances must actively participate in SvS battles or list of missing rally leaders in advance so others alliance can prepare for it.
+- Prep participation is expected and NAP alliances should encourage their members to save for SvS prep and not winning side events.
 - NAP alliances are expected to support all participating alliances in reaching Level 4 Combat Engineering.
 
 ### 9. Solar Castle Presidency
@@ -69,6 +71,7 @@ Banner Burning Restrictions:
 - All rule violations must be reported to NAP leadership.
 - Any hostile action (e.g., attacks, scouting, unauthorized banner burns) without leadership consultation is considered a violation.
 - Repeated or severe offenses may result in removal from the NAP.
+- If a specific player who repeatedly violates rules is kept in an alliance, retaliation on that player alone can be had without prior permission. This must be to the player alone and not to others in the alliance.
  
 
 
