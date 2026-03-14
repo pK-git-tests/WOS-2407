@@ -6,7 +6,7 @@
 - joiners will lock their strongest heroes in the garrison
 - smaller players will use shield outside the red zone (their main focus is to gather patrols and crystals  - same as frostfire mine)
 - enter battlefield at 11UTC, after 5 minutes teleport to labeled location
-
+![FDT WTF PLACEMENT](/fdt_map.png)
 
 ## HEALING - IMPORTANT! 
 - combination of SvS battle and foundry but there are main differences
